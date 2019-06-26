@@ -1,7 +1,9 @@
 # AetherBnb
 AetherBnB is a hospitality service application inspired by AirBnB.  Technologies used include MongoDB, Express, React & Node.js. Mapping functions were built using the Google Maps API.  You can check out the live deployment [here.](https://aetherbnb.herokuapp.com)
 
+---
 ![Screen Shot 2019-06-26 at 9 58 16 AM](https://user-images.githubusercontent.com/6785491/60199754-79f10400-97f9-11e9-9eeb-364df93060de.png)
+
 
 AetherBnB allows users to search by location via implementation of [react-places-autocomplete](https://github.com/hibiken/react-places-autocomplete).  The `geocodeByAddress` and `getLatLng` methods are used to transform the entered (or auto-completed) location into coordinates usable by Google Maps as in the example below:
 
